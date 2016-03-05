@@ -35,6 +35,8 @@
 - https://gogs.io/
 - https://helb.github.io/goodbye-sourceforge/
 - https://github.com/stevemao/awesome-git-addons
+- http://phabricator.org/
+- https://taiga.io/
 
 # Other Link Aggregates
 - https://github.com/phillipadsmith/awesome-github
