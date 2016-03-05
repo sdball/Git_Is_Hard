@@ -12,7 +12,8 @@
 - https://git.wiki.kernel.org/index.php/GitSvnCrashCourse
 - https://jan-krueger.net/git-cheat-sheet-extended-edition
 - http://marklodato.github.io/visual-git-guide/index-en.html
-- http://www.caseyli.com/videos
+- https://github.com/arslanbilal/git-cheat-sheet
+- https://github.com/git-tips/tips
 
 ## Github (Specific)
 - https://github.com/tiimgreen/github-cheat-sheet#readme
@@ -21,6 +22,7 @@
 - https://www.reddit.com/r/learnprogramming/comments/304yfp/eli5_github/
 
 ## Videos
+- http://www.caseyli.com/videos
 - https://www.youtube.com/watch?v=oFYyTZwMyAg
 
 ## Tools/Resources
@@ -32,3 +34,7 @@
 - https://about.gitlab.com/
 - https://gogs.io/
 - https://helb.github.io/goodbye-sourceforge/
+- https://github.com/stevemao/awesome-git-addons
+
+# Other Link Aggregates
+- https://github.com/phillipadsmith/awesome-github
