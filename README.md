@@ -37,6 +37,8 @@
 - https://github.com/stevemao/awesome-git-addons
 - http://phabricator.org/
 - https://taiga.io/
+- http://prose.io/
+- https://www.gitbook.com
 
 # Other Link Aggregates
 - https://github.com/phillipadsmith/awesome-github
