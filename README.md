@@ -14,6 +14,8 @@
 - http://marklodato.github.io/visual-git-guide/index-en.html
 - https://github.com/arslanbilal/git-cheat-sheet
 - https://github.com/git-tips/tips
+- http://www-cs-students.stanford.edu/~blynn/gitmagic/ch01.html
+- http://gitready.com/
 
 ## Github (Specific)
 - https://github.com/tiimgreen/github-cheat-sheet#readme
