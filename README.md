@@ -16,6 +16,7 @@
 - https://github.com/git-tips/tips
 - http://www-cs-students.stanford.edu/~blynn/gitmagic/ch01.html
 - http://gitready.com/
+- https://github.com/git-game/git-game
 
 ## Github (Specific)
 - https://github.com/tiimgreen/github-cheat-sheet#readme
