@@ -42,6 +42,7 @@
 - https://taiga.io/
 - http://prose.io/
 - https://www.gitbook.com
+- http://www.git-legit.org/
 
 # Other Link Aggregates
 - https://github.com/phillipadsmith/awesome-github
