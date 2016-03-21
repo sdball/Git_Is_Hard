@@ -43,6 +43,7 @@
 - http://prose.io/
 - https://www.gitbook.com
 - http://www.git-legit.org/
+- http://www.gitkraken.com/screenshots
 
 # Other Link Aggregates
 - https://github.com/phillipadsmith/awesome-github
