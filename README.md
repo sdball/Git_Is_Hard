@@ -1,5 +1,25 @@
 # Git Is Hard
 
+## Servers
+- https://about.gitlab.com/
+- https://gogs.io/
+- http://phabricator.org/
+- https://taiga.io/
+- https://github.com/gitbucket/gitbucket
+- https://www.tuleap.org/try-and-go
+
+## Clients/Tools/Resources
+- https://github.com/FredrikNoren/ungit
+- https://www.sourcetreeapp.com/
+- https://gitter.im/
+- https://education.github.com/pack
+- https://waffle.io/
+- https://github.com/stevemao/awesome-git-addons
+- http://prose.io/
+- https://www.gitbook.com
+- http://www.git-legit.org/
+- http://www.gitkraken.com/screenshots
+
 ## Git (General)
 - http://zeroturnaround.com/rebellabs/git-commands-and-best-practices-cheat-sheet/
 - http://nvie.com/posts/a-successful-git-branching-model/
@@ -28,27 +48,7 @@
 - http://www.caseyli.com/videos
 - https://www.youtube.com/watch?v=oFYyTZwMyAg
 
-## Tools/Resources
-- https://github.com/FredrikNoren/ungit
-- https://www.sourcetreeapp.com/
-- https://gitter.im/
-- https://education.github.com/pack
-- https://waffle.io/
-- https://helb.github.io/goodbye-sourceforge/
-- https://github.com/stevemao/awesome-git-addons
-- http://phabricator.org/
-- https://taiga.io/
-- http://prose.io/
-- https://www.gitbook.com
-- http://www.git-legit.org/
-- http://www.gitkraken.com/screenshots
-
-## Servers
-- https://about.gitlab.com/
-- https://gogs.io/
-- https://github.com/gitbucket/gitbucket
-- https://www.tuleap.org/try-and-go
-
 # Other Link Aggregates
 - https://github.com/phillipadsmith/awesome-github
 - https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#git
+- https://helb.github.io/goodbye-sourceforge/
