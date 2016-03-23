@@ -34,8 +34,6 @@
 - https://gitter.im/
 - https://education.github.com/pack
 - https://waffle.io/
-- https://about.gitlab.com/
-- https://gogs.io/
 - https://helb.github.io/goodbye-sourceforge/
 - https://github.com/stevemao/awesome-git-addons
 - http://phabricator.org/
@@ -44,6 +42,12 @@
 - https://www.gitbook.com
 - http://www.git-legit.org/
 - http://www.gitkraken.com/screenshots
+
+## Servers
+- https://about.gitlab.com/
+- https://gogs.io/
+- https://github.com/gitbucket/gitbucket
+- https://www.tuleap.org/try-and-go
 
 # Other Link Aggregates
 - https://github.com/phillipadsmith/awesome-github
