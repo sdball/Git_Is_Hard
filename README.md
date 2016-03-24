@@ -60,3 +60,4 @@
 - https://github.com/phillipadsmith/awesome-github
 - https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#git
 - https://helb.github.io/goodbye-sourceforge/
+- https://github.com/vhf/free-programming-books/blob/master/free-programming-interactive-tutorials-en.md#git
