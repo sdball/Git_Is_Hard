@@ -37,6 +37,14 @@
 - http://www-cs-students.stanford.edu/~blynn/gitmagic/ch01.html
 - http://gitready.com/
 - https://github.com/git-game/git-game
+- Vendoring/Submodules/Subtrees:
+  - http://blogs.atlassian.com/2013/05/alternatives-to-git-submodule-git-subtree/
+  - https://medium.com/@v/git-subtrees-a-tutorial-6ff568381844#.33s8on2yg
+  - https://medium.com/@porteneuve/mastering-git-subtrees-943d29a798ec#.s6z8bjqs6
+  - https://git-scm.com/book/en/v2/Git-Tools-Submodules
+  - https://chrisjean.com/git-submodules-adding-using-removing-and-updating/
+  - http://blogs.atlassian.com/2013/03/git-submodules-workflows-tips/
+  - https://medium.com/@porteneuve/mastering-git-submodules-34c65e940407#.ofv6mhkdk
 
 ## Github (Specific)
 - https://github.com/tiimgreen/github-cheat-sheet#readme
