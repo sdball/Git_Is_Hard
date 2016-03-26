@@ -19,6 +19,7 @@
 - https://www.gitbook.com
 - http://www.git-legit.org/
 - http://www.gitkraken.com/screenshots
+- https://github.com/tj/git-extras
 
 ## Git (General)
 - http://zeroturnaround.com/rebellabs/git-commands-and-best-practices-cheat-sheet/
