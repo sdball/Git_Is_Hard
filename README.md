@@ -46,6 +46,11 @@
   - https://chrisjean.com/git-submodules-adding-using-removing-and-updating/
   - http://blogs.atlassian.com/2013/03/git-submodules-workflows-tips/
   - https://medium.com/@porteneuve/mastering-git-submodules-34c65e940407#.ofv6mhkdk
+- Commit Messages
+  - http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html
+  - https://news.ycombinator.com/item?id=10212582
+  - http://who-t.blogspot.de/2009/12/on-commit-messages.html
+  - http://rakeroutes.com/blog/deliberate-git/
 
 ## Github (Specific)
 - https://github.com/tiimgreen/github-cheat-sheet#readme
