@@ -62,6 +62,7 @@
 ## Videos
 - http://www.caseyli.com/videos
 - https://www.youtube.com/watch?v=oFYyTZwMyAg
+- https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV
 
 # Other Link Aggregates
 - https://github.com/phillipadsmith/awesome-github
