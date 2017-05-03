@@ -7,6 +7,9 @@
 - https://taiga.io/
 - https://github.com/gitbucket/gitbucket
 - https://www.tuleap.org/try-and-go
+- https://github.com/go-gitea/gitea
+- https://rhodecode.com/download/community
+- http://gitprep.yukikimoto.com/
 
 ## Clients/Tools/Resources
 - https://github.com/FredrikNoren/ungit
