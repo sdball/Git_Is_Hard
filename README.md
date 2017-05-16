@@ -26,7 +26,7 @@
 
 ## Git (General)
 - http://learngitbranching.js.org/
-- https://devbookhelp.herokuapp.com/git  [cheat sheet]
+- https://devbookhelp.herokuapp.com/git
 - https://try.github.io/levels/1/challenges/1
 - http://zeroturnaround.com/rebellabs/git-commands-and-best-practices-cheat-sheet/
 - http://nvie.com/posts/a-successful-git-branching-model/
